@@ -1,3 +1,8 @@
 Impact Training
 
-Day 1 : Introduction to Programming 
+* Introduction to Programming
+* Data Types, Variables, Operators
+* Conditional Statements , Switch Statements
+* looping
+* Digit Manipulation, Nested Loops, Patterns
+* Patterns , Number Problems   
